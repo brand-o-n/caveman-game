@@ -122,6 +122,90 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 --- !u!1 &77627355
+
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 519420032}
+  - component: {fileID: 519420031}
+  - component: {fileID: 519420029}
+  m_Layer: 0
+  m_Name: Main Camera
+  m_TagString: MainCamera
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!81 &519420029
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_Enabled: 1
+--- !u!20 &519420031
+Camera:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_projectionMatrixMode: 1
+  m_GateFitMode: 2
+  m_FOVAxisMode: 0
+  m_SensorSize: {x: 36, y: 24}
+  m_LensShift: {x: 0, y: 0}
+  m_FocalLength: 50
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.3
+  far clip plane: 1000
+  field of view: 60
+  orthographic: 1
+  orthographic size: 5
+  m_Depth: -1
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 0
+  m_HDR: 0
+  m_AllowMSAA: 0
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 0
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+--- !u!4 &519420032
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &715873537
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -238,8 +322,8 @@ Tilemap:
   - first: {x: -9, y: -4, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 1
-      m_TileSpriteIndex: 1
+      m_TileIndex: 0
+      m_TileSpriteIndex: 0
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -2494,8 +2578,8 @@ Tilemap:
   - first: {x: -6, y: 3, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 2
-      m_TileSpriteIndex: 2
+      m_TileIndex: 0
+      m_TileSpriteIndex: 0
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -3258,6 +3342,32 @@ Tilemap:
       m_AllTileFlags: 1073741825
   m_AnimatedTiles: {}
   m_TileAssetArray:
+  - m_RefCount: 56
+    m_Data: {fileID: 11400000, guid: dcc3a0c479c7d0746938bfc7665544b1, type: 2}
+  - m_RefCount: 19
+    m_Data: {fileID: 11400000, guid: b3d05b21257091145a5f2f6e397b6d7a, type: 2}
+  - m_RefCount: 40
+    m_Data: {fileID: 11400000, guid: ea417487fb74b024caea29a0d573f987, type: 2}
+  - m_RefCount: 19
+    m_Data: {fileID: 11400000, guid: f5dc9916ca0a7f0449959893474fd9fb, type: 2}
+  - m_RefCount: 3
+    m_Data: {fileID: 11400000, guid: bce59f92cd3d7484eb9df9407c12dbe5, type: 2}
+  - m_RefCount: 3
+    m_Data: {fileID: 11400000, guid: 9d10d4433c3d85e4f803bce6649e6fa0, type: 2}
+  - m_RefCount: 4
+    m_Data: {fileID: 11400000, guid: d86d588dc6bc6be419110d497e546d89, type: 2}
+  - m_RefCount: 5
+    m_Data: {fileID: 11400000, guid: 88ee6662871906f4a933364eb4556bb1, type: 2}
+  - m_RefCount: 5
+    m_Data: {fileID: 11400000, guid: 9281619995cab5c46a1f0dfb1870befd, type: 2}
+  - m_RefCount: 4
+    m_Data: {fileID: 11400000, guid: 1ab52e98feaf7ab43a94e6a3dab83d8b, type: 2}
+  - m_RefCount: 3
+    m_Data: {fileID: 11400000, guid: 065b90c8e48afff4db724ceb78d6702f, type: 2}
+  - m_RefCount: 3
+    m_Data: {fileID: 11400000, guid: 85cbc12d9a6ce1443887738c864998b0, type: 2}
+  - m_RefCount: 4
+    m_Data: {fileID: 11400000, guid: 3a9c648da7a936b4c855593b74215a7a, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: f7dce88a1d7dcc0488df35f4a74590b9, type: 2}
   - m_RefCount: 4
@@ -3279,6 +3389,41 @@ Tilemap:
   m_TileSpriteArray:
   - m_RefCount: 1
     m_Data: {fileID: -5755210097820711400, guid: 2d14bd44a20562643939cdf18f3ae532,
+  - m_RefCount: 56
+    m_Data: {fileID: 6565772276777913385, guid: 2d14bd44a20562643939cdf18f3ae532,
+      type: 3}
+  - m_RefCount: 19
+    m_Data: {fileID: -1763512508778806713, guid: 2d14bd44a20562643939cdf18f3ae532,
+      type: 3}
+  - m_RefCount: 40
+    m_Data: {fileID: -7324485712742166958, guid: 2d14bd44a20562643939cdf18f3ae532,
+      type: 3}
+  - m_RefCount: 19
+    m_Data: {fileID: 6910562848852782868, guid: 2d14bd44a20562643939cdf18f3ae532,
+      type: 3}
+  - m_RefCount: 3
+    m_Data: {fileID: -3004704076019072420, guid: 2d14bd44a20562643939cdf18f3ae532,
+      type: 3}
+  - m_RefCount: 3
+    m_Data: {fileID: -6258871680609944895, guid: 2d14bd44a20562643939cdf18f3ae532,
+      type: 3}
+  - m_RefCount: 4
+    m_Data: {fileID: 3139092602934258579, guid: 2d14bd44a20562643939cdf18f3ae532,
+      type: 3}
+  - m_RefCount: 5
+    m_Data: {fileID: -9070271667552485007, guid: 2d14bd44a20562643939cdf18f3ae532,
+      type: 3}
+  - m_RefCount: 5
+    m_Data: {fileID: 7519745812291383457, guid: 2d14bd44a20562643939cdf18f3ae532,
+      type: 3}
+  - m_RefCount: 4
+    m_Data: {fileID: -4692289691582264659, guid: 2d14bd44a20562643939cdf18f3ae532,
+      type: 3}
+  - m_RefCount: 3
+    m_Data: {fileID: -2357943754454600934, guid: 2d14bd44a20562643939cdf18f3ae532,
+      type: 3}
+  - m_RefCount: 3
+    m_Data: {fileID: -1124265856797900257, guid: 2d14bd44a20562643939cdf18f3ae532,
       type: 3}
   - m_RefCount: 4
     m_Data: {fileID: -731147223686028338, guid: 2d14bd44a20562643939cdf18f3ae532,
