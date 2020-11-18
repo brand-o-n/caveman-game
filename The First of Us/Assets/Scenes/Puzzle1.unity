@@ -6461,7 +6461,7 @@ PrefabInstance:
     - target: {fileID: 3285342945148848195, guid: a30252c0c1ccf024dbe009716587123d,
         type: 3}
       propertyPath: m_Name
-      value: SceneTrigger
+      value: SurfaceTrigger
       objectReference: {fileID: 0}
     - target: {fileID: 3285342945148848199, guid: a30252c0c1ccf024dbe009716587123d,
         type: 3}
