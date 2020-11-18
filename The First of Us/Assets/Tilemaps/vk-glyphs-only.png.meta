@@ -1,0 +1,1448 @@
+fileFormatVersion: 2
+guid: 2295bf3ac7525ae4f850623f39d0f3fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -744845203706918762
+    second: vk-glyphs-only_0
+  - first:
+      213: 4144779367130125347
+    second: vk-glyphs-only_1
+  - first:
+      213: -4990011441923999643
+    second: vk-glyphs-only_2
+  - first:
+      213: 2884865141203269834
+    second: vk-glyphs-only_3
+  - first:
+      213: -8997758163234903939
+    second: vk-glyphs-only_4
+  - first:
+      213: 6330735538335189231
+    second: vk-glyphs-only_5
+  - first:
+      213: -7307631225986831204
+    second: vk-glyphs-only_6
+  - first:
+      213: -2645781119581089927
+    second: vk-glyphs-only_7
+  - first:
+      213: -3214318901984554581
+    second: vk-glyphs-only_8
+  - first:
+      213: -5077498369220819514
+    second: vk-glyphs-only_9
+  - first:
+      213: -1519118529591911906
+    second: vk-glyphs-only_10
+  - first:
+      213: -7284437110769694381
+    second: vk-glyphs-only_11
+  - first:
+      213: 4045076874589029191
+    second: vk-glyphs-only_12
+  - first:
+      213: -7570586663214806534
+    second: vk-glyphs-only_13
+  - first:
+      213: 5151538063047108394
+    second: vk-glyphs-only_14
+  - first:
+      213: -3522636014181801255
+    second: vk-glyphs-only_15
+  - first:
+      213: -6806820656174900760
+    second: vk-glyphs-only_16
+  - first:
+      213: 3821651565124719435
+    second: vk-glyphs-only_17
+  - first:
+      213: -3711080725514445466
+    second: vk-glyphs-only_18
+  - first:
+      213: -6942775608470918085
+    second: vk-glyphs-only_19
+  - first:
+      213: 6880167613109648328
+    second: vk-glyphs-only_20
+  - first:
+      213: -1511747693597715046
+    second: vk-glyphs-only_21
+  - first:
+      213: 702103644481800026
+    second: vk-glyphs-only_22
+  - first:
+      213: 3118910589523236048
+    second: vk-glyphs-only_23
+  - first:
+      213: -4728406653283803748
+    second: vk-glyphs-only_24
+  - first:
+      213: -7949698690288001709
+    second: vk-glyphs-only_25
+  - first:
+      213: -4717495121399848690
+    second: vk-glyphs-only_26
+  - first:
+      213: 6652850692499392630
+    second: vk-glyphs-only_27
+  - first:
+      213: -3386725323999652023
+    second: vk-glyphs-only_28
+  - first:
+      213: -2761523519818259411
+    second: vk-glyphs-only_29
+  - first:
+      213: 5425721870729600042
+    second: vk-glyphs-only_30
+  - first:
+      213: 3135784944767132651
+    second: vk-glyphs-only_31
+  - first:
+      213: -5745586664201462030
+    second: vk-glyphs-only_32
+  - first:
+      213: 7110409489770094820
+    second: vk-glyphs-only_33
+  - first:
+      213: -4180534897725808469
+    second: vk-glyphs-only_34
+  - first:
+      213: 6626394627096762469
+    second: vk-glyphs-only_35
+  - first:
+      213: -9123701288252992765
+    second: vk-glyphs-only_36
+  - first:
+      213: -4000656476869982722
+    second: vk-glyphs-only_37
+  - first:
+      213: 5454693756206505405
+    second: vk-glyphs-only_38
+  - first:
+      213: 8447665586301012502
+    second: vk-glyphs-only_39
+  - first:
+      213: 4850812090803234101
+    second: vk-glyphs-only_40
+  - first:
+      213: -1244409304882679201
+    second: vk-glyphs-only_41
+  - first:
+      213: -7287087515728438879
+    second: vk-glyphs-only_42
+  - first:
+      213: -250790858498080704
+    second: vk-glyphs-only_43
+  - first:
+      213: 3988830909241311726
+    second: vk-glyphs-only_44
+  - first:
+      213: 2515225409194136407
+    second: vk-glyphs-only_45
+  - first:
+      213: -8334423206400815136
+    second: vk-glyphs-only_46
+  - first:
+      213: -1924364842451398418
+    second: vk-glyphs-only_47
+  - first:
+      213: -1254098836305251531
+    second: vk-glyphs-only_48
+  - first:
+      213: 7260662959579269602
+    second: vk-glyphs-only_49
+  - first:
+      213: -3618010636895265314
+    second: vk-glyphs-only_50
+  - first:
+      213: 6600219228553108608
+    second: vk-glyphs-only_51
+  - first:
+      213: -2550693356399762234
+    second: vk-glyphs-only_52
+  - first:
+      213: 3412865639138497939
+    second: vk-glyphs-only_53
+  - first:
+      213: -7198335809103159473
+    second: vk-glyphs-only_54
+  - first:
+      213: -1434234915787777374
+    second: vk-glyphs-only_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vk-glyphs-only_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 120
+        width: 133
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698456ccb37c9a5f0800000000000000
+      internalID: -744845203706918762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 120
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324d82adfd6358930800000000000000
+      internalID: 4144779367130125347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 120
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5683cf2280befbab0800000000000000
+      internalID: -4990011441923999643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 120
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8f35eaf89190820800000000000000
+      internalID: 2884865141203269834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_4
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 111
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7823896f9a812380800000000000000
+      internalID: -8997758163234903939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 75
+        width: 91
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe809613e6a4bd750800000000000000
+      internalID: 6330735538335189231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_6
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 75
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ca0811e14169a90800000000000000
+      internalID: -7307631225986831204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 111
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f0fe5f61c484bd0800000000000000
+      internalID: -2645781119581089927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 102
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba113642df17463d0800000000000000
+      internalID: -3214318901984554581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 111
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5c7fa822a1989b0800000000000000
+      internalID: -5077498369220819514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 111
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ad5f7feb10beae0800000000000000
+      internalID: -1519118529591911906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 111
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35946e7da0b78ea90800000000000000
+      internalID: -7284437110769694381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 111
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743c6075cfff22830800000000000000
+      internalID: 4045076874589029191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_13
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 111
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af985cd5a8fdfe690800000000000000
+      internalID: -7570586663214806534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_14
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 111
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27a3d60390fd7740800000000000000
+      internalID: 5151538063047108394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 111
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d222b575351d1fc0800000000000000
+      internalID: -3522636014181801255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 102
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e957e26da05981a0800000000000000
+      internalID: -6806820656174900760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 102
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43139ab9db390530800000000000000
+      internalID: 3821651565124719435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 102
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d99e60eb79f7cc0800000000000000
+      internalID: -3711080725514445466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 102
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c28d55e5e46af90800000000000000
+      internalID: -6942775608470918085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 102
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb3c8ecdf34b7f50800000000000000
+      internalID: 6880167613109648328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_21
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 102
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9597157b71350be0800000000000000
+      internalID: -1511747693597715046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 102
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5748d47b8f5eb900800000000000000
+      internalID: 702103644481800026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_23
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 102
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d49cbe08a8984b20800000000000000
+      internalID: 3118910589523236048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_24
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 102
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ddc657333516eb0800000000000000
+      internalID: -4728406653283803748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_25
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 102
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ddef5192ffca190800000000000000
+      internalID: -7949698690288001709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_26
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 102
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01e2537e27188eb0800000000000000
+      internalID: -4717495121399848690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_27
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 102
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678432ed47ca35c50800000000000000
+      internalID: 6652850692499392630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 48
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9475e2fe24feff0d0800000000000000
+      internalID: -3386725323999652023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_29
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 48
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24a85a6df81da9d0800000000000000
+      internalID: -2761523519818259411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_30
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 66
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cd7e27b490c4b40800000000000000
+      internalID: 5425721870729600042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 66
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3ecdc0bcb848b20800000000000000
+      internalID: 3135784944767132651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 66
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fedc0ece539340b0800000000000000
+      internalID: -5745586664201462030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_33
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 66
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0205522cf3da260800000000000000
+      internalID: 7110409489770094820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0ede1f8a1cbf5c0800000000000000
+      internalID: -4180534897725808469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_35
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 66
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568d8a12ecea5fb50800000000000000
+      internalID: 6626394627096762469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_36
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 75
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30318ec840a126180800000000000000
+      internalID: -9123701288252992765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_37
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 75
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef58cc37120da78c0800000000000000
+      internalID: -4000656476869982722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_38
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 93
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdda313217f2bb40800000000000000
+      internalID: 5454693756206505405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_39
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 84
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a83c4d7132c3570800000000000000
+      internalID: 8447665586301012502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_40
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 84
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5352f7855eb815340800000000000000
+      internalID: 4850812090803234101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_41
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 75
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52f6439458fabee0800000000000000
+      internalID: -1244409304882679201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 31
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a992d953801fda90800000000000000
+      internalID: -7287087515728438879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 39
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0408e4efa03058cf0800000000000000
+      internalID: -250790858498080704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_44
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee14d66049c2b5730800000000000000
+      internalID: 3988830909241311726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 39
+        width: 67
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7539d05fe20e7e220800000000000000
+      internalID: 2515225409194136407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_46
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef05be504e265c80800000000000000
+      internalID: -8334423206400815136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee01f6b1f584b45e0800000000000000
+      internalID: -1924364842451398418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_48
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 39
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5337bccb0cb889ee0800000000000000
+      internalID: -1254098836305251531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_49
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 60
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e90f8b3e7e03c460800000000000000
+      internalID: 7260662959579269602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_50
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 48
+        width: 30
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddd54aae7e3acdc0800000000000000
+      internalID: -3618010636895265314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_51
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 39
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c5c9d3b60b89b50800000000000000
+      internalID: 6600219228553108608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_52
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4e7d018ed1a9cd0800000000000000
+      internalID: -2550693356399762234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_53
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 21
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3959cf6773fec5f20800000000000000
+      internalID: 3412865639138497939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_54
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 21
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f9e6458bf5a1c90800000000000000
+      internalID: -7198335809103159473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vk-glyphs-only_55
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 3
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aad10861f2981ce0800000000000000
+      internalID: -1434234915787777374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
