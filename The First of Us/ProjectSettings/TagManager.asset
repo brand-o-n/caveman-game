@@ -8,6 +8,15 @@ TagManager:
   - Rocky
   - EmptyHole
   - FilledHole
+  - RED_rock
+  - GREEN_rock
+  - BLUE_rock
+  - FilledHole_RED
+  - FilledHole_GREEN
+  - FilledHole_BLUE
+  - EmptyHole_RED
+  - EmptyHole_GREEN
+  - EmptyHole_BLUE
   layers:
   - Default
   - TransparentFX

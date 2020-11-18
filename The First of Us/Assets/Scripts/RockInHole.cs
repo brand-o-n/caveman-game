@@ -7,10 +7,8 @@ public class RockInHole : MonoBehaviour
     GameObject rock;
     GameObject hole;
     GameObject filledhole;
-    //private SpriteRenderer sprite;
 
     void Start () {
-        //sprite = GetComponent<SpriteRenderer>();
         filledhole = GameObject.FindWithTag ("FilledHole");
         filledhole.SetActive (false);
     }
@@ -24,8 +22,6 @@ public class RockInHole : MonoBehaviour
             rock.SetActive (false);
             hole = GameObject.FindWithTag ("EmptyHole");
             hole.SetActive (false);
-            //filledhole = GameObject.FindWithTag ("FilledHole");
-            //filledhole.sortingOrder = 4;
             filledhole.SetActive (true);
 
         }
